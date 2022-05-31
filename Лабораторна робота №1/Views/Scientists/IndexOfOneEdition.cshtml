@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Lab1_Scientists_And_Publications.Scientist>
+
+@{
+    ViewData["Title"] = "Автори видання";
+}
+
+<h1>Автори видання "@ViewBag.EditionName" публікації "@ViewBag.PublicationTitle"</h1>
+
+<p>
+    <a asp-action="Create">Додати нового науковця</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfBirth)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ScienceDegree)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ScienceDegree)
+            </td>
+            <td>
+                    @{
+                        //var departmentName = (from b in _context.Departments)
+                        Html.DisplayFor(modelItem => item.Department.Name);
+                    }
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Редагувати</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Деталі</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Видалити</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

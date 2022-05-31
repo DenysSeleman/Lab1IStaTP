@@ -1,0 +1,160 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab1_Scientists_And_Publications
+build_property.RootNamespace = Lab1_Scientists_And_Publications
+build_property.ProjectDir = C:\Users\unden\Desktop\Лабораторна робота №1\Лабораторна робота №1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\unden\Desktop\Лабораторна робота №1\Лабораторна робота №1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/CreateCommon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcQ3JlYXRlQ29tbW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/IndexOfOnePublication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcSW5kZXhPZk9uZVB1YmxpY2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Editions/IndexOfOneScientist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGlvbnNcSW5kZXhPZk9uZVNjaWVudGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Faculties/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Faculties/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Faculties/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Faculties/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Faculties/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdWx0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Publications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Publications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Publications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Publications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Publications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGljYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Scientists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50aXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Scientists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50aXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Scientists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50aXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Scientists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50aXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Scientists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50aXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Scientists/IndexOfOneEdition.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NpZW50aXN0c1xJbmRleE9mT25lRWRpdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/unden/Desktop/Лабораторна робота №1/Лабораторна робота №1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tfe9gvqyci
